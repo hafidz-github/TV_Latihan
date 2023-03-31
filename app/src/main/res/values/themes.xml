@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.TV_latihan_01" parent="@style/Theme.Leanback" />
+</resources>
